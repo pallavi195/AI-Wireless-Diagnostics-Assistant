@@ -26,6 +26,25 @@ AI Wireless Diagnostics Assistant is a Python-based wireless network troubleshoo
 * FPDF
 ## Project Structure
 
+```text
+AI-Wireless-Diagnostics-Assistant
+│
+├── app.py
+├── analyzer.py
+├── parser.py
+├── pcap_parser.py
+├── insights.py
+├── report.py
+├── requirements.txt
+├── README.md
+│
+├── home.png
+├── wi-fi-log-analysis.png
+├── packet-analysis.png
+├── ai-diagnosis.png
+└── report.png
+```
+
 ## Installation
 
 ### Clone the Repository
@@ -59,26 +78,6 @@ streamlit run app.py
 - TShark
 - Streamlit
 - PyShark
-
-
-```text
-AI-Wireless-Diagnostics-Assistant
-│
-├── app.py
-├── analyzer.py
-├── parser.py
-├── pcap_parser.py
-├── insights.py
-├── report.py
-├── requirements.txt
-├── README.md
-│
-├── home.png
-├── wi-fi-log-analysis.png
-├── packet-analysis.png
-├── ai-diagnosis.png
-└── report.png
-```
 
 ## Project Workflow
 
