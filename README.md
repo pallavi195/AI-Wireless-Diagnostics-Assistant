@@ -55,3 +55,20 @@ AI Wireless Diagnostics Assistant is a Python-based wireless network troubleshoo
 ## Author
 
 Pallavi Gollu
+
+## Application Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Wi-Fi Log Analysis
+![Wi-Fi Analysis](wi-fi-log-analysis.png)
+
+### Packet Capture Analysis
+![Packet Analysis](packet-analysis.png)
+
+### AI Diagnosis
+![AI Diagnosis](ai-diagnosis.png)
+
+### Generated PDF Report
+![Report](report.png)
