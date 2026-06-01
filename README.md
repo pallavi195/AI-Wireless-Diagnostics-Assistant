@@ -26,6 +26,41 @@ AI Wireless Diagnostics Assistant is a Python-based wireless network troubleshoo
 * FPDF
 ## Project Structure
 
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/pallavi195/AI-Wireless-Diagnostics-Assistant.git
+```
+
+### Navigate to the Project Folder
+
+```bash
+cd AI-Wireless-Diagnostics-Assistant
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Application
+
+```bash
+streamlit run app.py
+```
+
+### Requirements
+
+- Python 3.10+
+- Wireshark
+- TShark
+- Streamlit
+- PyShark
+
+
 ```text
 AI-Wireless-Diagnostics-Assistant
 │
